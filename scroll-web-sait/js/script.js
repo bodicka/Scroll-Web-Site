@@ -50,4 +50,3 @@ if (ScrollTrigger.isTouch !== 1) {
   })
 }
 
-console.log('New script')
